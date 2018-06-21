@@ -22,7 +22,8 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Use SVN or other version control softwares, may take time to learn, maybe there's some function not
+    avaliable or different flow design.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
